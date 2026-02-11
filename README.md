@@ -170,15 +170,4 @@ Not intended for:
 
 ---
 
-## Limitations
 
-- Uses brick-wall frequency filter (not ISO Gaussian filter)  
-- 1D profiles only  
-- No form removal  
-- No automated parameter estimation  
-
----
-
-## License
-
-Add your preferred license (e.g., MIT, Apache 2.0).
